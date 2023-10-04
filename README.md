@@ -8,7 +8,7 @@ A former Tech Recruiter looking to kickstart my career in Software Engineering. 
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| [**What Happens**](https://github.com/chingu-voyages/v44-tier3-team-44)             | A web app that users can filter the news  by selecting specific countries and news categories.  | React, Node, Express, ChakraUI, NewsAPI, Render, Netlify |
+| [**What Happens**](https://github.com/chingu-voyages/v44-tier3-team-44)             | A web app that users can filter news articles by selecting specific countries and news categories.  | React, Node, Express, ChakraUI, NewsAPI, Render, Netlify |
 | [**Jerk Shack Restaurant**](https://github.com/denisecodes/Jerk-Shack-Restaurant) | A web app that users can use to make reservations for Caribbean restaurant. The web app includes an image gallery, contact form and more. | React, HTML, CSS              |
 | [**MakersBnB**](https://github.com/denisecodes/makersbnb) | An app that allows users to view and book different properties. Users are also able to create and maintain accounts in order to place bookings. | Python, Flask, HTML, CSS              |
 
@@ -58,7 +58,7 @@ _Recruiter/Team Assistant_
 - I convinced and hired candidates for startups, helping them to further progress in their tech career 
 - I worked closely with hiring managers to find qualified team members for their team
 - I contributed to regular sourcing sessions for roles my team member's were hiring
-- I participated to a [Customer Spotlight Article](https://medium.com/acelr8/customer-spotlight-hiring-with-checkly-489bfdfd8c60)
+- I participated in a [Customer Spotlight Article](https://medium.com/acelr8/customer-spotlight-hiring-with-checkly-489bfdfd8c60)
  when I worked for [Checkly](https://www.checklyhq.com)
 
  #### Project management
@@ -68,37 +68,13 @@ _Recruiter/Team Assistant_
 - I conducted research and market mapping on roles, looking for new keywords and platforms to find candidates
 
 
-<!-- Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
-
-Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had. 
-
-
-Here's an example
-
-#### Communication
-I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
-
-#### Another skill
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.) -->
-
-
-
 ## Education
 
 #### Makers Academy (July 2023 to Oct 2023)
 - **Summary**: 16-week bootcamp course with 8 weeks covering software engineering foundations and 8 weeks on Cloud Engineering/Devops
 - **Tech stack**: Python, SQL, Flask, Pytest, Playwright
-- **Skills and Concepts**: Command Line, Git, OOP, TTD, Debugging, CI-CD, Agile, APIs, AWS, IAM, IaC, Kubernetes, Threat Modelling
+- **Skills and Concepts**: Command Line, Git, OOP, TDD, Debugging, CI-CD, Agile, APIs, AWS, IAM, IaC, Kubernetes, Threat Modelling
 - Pair programmed regularly and worked in groups using agile methodology
-
-
-<!-- Add this if you want -->
-<!-- - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication. -->
 
 
 #### The University of Hong Kong (Sep 2013 to May 2017)
@@ -109,7 +85,7 @@ I honed my communication skills while completing my thesis at university, which 
 
 ## Awards
 - 3rd Place at Athena Hackathon 2023
-- Highly Recommended Candidate for Code First Girls's Intro to Javavascript course
+- Highly Recommended Candidate for Code First Girls's Intro to Javascript course
 - Finalist for Code First Girls's Intro to Cloud and Deployment course
 
 
@@ -117,6 +93,6 @@ I honed my communication skills while completing my thesis at university, which 
 
 - I play badminton (🥇 Winner of Windy Panda Beginners Tournament 2023, 
 🥉 3rd place at South West Strings Ladies Tournament 2022)
-- I practice meditation and yoga reguarly
+- I practice meditation and yoga regularly
 - I volunteered at Codebar and Chingu to organise group projects
 - I contribute to admin work for asideofcode 
